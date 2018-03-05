@@ -5,6 +5,8 @@ This is a React/Redux app that is based on the concept of combining Yelp with an
 Under Favorites, scroll the icons to to the right and hover to the icon you want, the important information of that restaurant will be shown on the yellow sticky note! 
 
 <br>
-<img height="500" width ="350" src="https://github.com/ringoyip0901/yumble/blob/master/Yumble.png" />
-<img height="500" width="350" float="left" src="https://github.com/ringoyip0901/yumble/blob/master/favorites.png" />
+<div>
+  <img height="500" width ="350" src="https://github.com/ringoyip0901/yumble/blob/master/Yumble.png" />
+  <img height="500" width="350" float="left" src="https://github.com/ringoyip0901/yumble/blob/master/favorites.png" />
+</div>
 <br>
