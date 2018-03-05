@@ -6,5 +6,5 @@ Under Favorites, scroll the icons to to the right and hover to the icon you want
 
 <br>
 <img height="500" width ="350" src="https://github.com/ringoyip0901/yumble/blob/master/Yumble.png" />
-<img height="500" width="350" src="https://github.com/ringoyip0901/yumble/blob/master/favorites.png" />
+<img height="500" width="350" float="left" src="https://github.com/ringoyip0901/yumble/blob/master/favorites.png" />
 <br>
